@@ -1,0 +1,713 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The answer of the Commission of Generall Assemblie to the quæree propounded to them from the Parliament with an answer of the Commission of the Generall Assemblie to a letter, sent to them from the ministers of the Presbyterie of Sterline.</title>
+            <author>Church of Scotland. General Assembly. Commission.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33081</idno>
+            <idno type="STC">Wing C4199</idno>
+            <idno type="STC">ESTC R35582</idno>
+            <idno type="EEBO-CITATION">15367882</idno>
+            <idno type="OCLC">ocm 15367882</idno>
+            <idno type="VID">103541</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33081)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103541)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1148:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The answer of the Commission of Generall Assemblie to the quæree propounded to them from the Parliament with an answer of the Commission of the Generall Assemblie to a letter, sent to them from the ministers of the Presbyterie of Sterline.</title>
+                  <author>Church of Scotland. General Assembly. Commission.</author>
+                  <author>Ker, A.</author>
+               </titleStmt>
+               <extent>19 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by James Brown,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: A. Ker.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103541:1"/>
+            <p>THE ANSWER Of the Commiſsion of the Ge<g ref="char:EOLhyphen"/>nerall Aſſemblie, to
+the Quaeree, Propounded to them, from the PARLIAMENT. WITH AN ANSWER Of the
+Commiſsion of the Gene<g ref="char:EOLhyphen"/>rall Aſſemblie, to a letter, ſent to them, from
+the Miniſters of the Preſbyterie of Sterline.</p>
+            <p>
+               <hi>ABERDENE,</hi> Printed by James Brown, 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:103541:2"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>PERTH, 
+<date>14 December, 1650. <hi>Ante
+meridiem.</hi>
+                        </date>
+                     </dateline>
+                  </opener>
+                  <head>Anſwer from the Commiſsion of the Generall
+Aſſemblie, to the Quaeree from the PARLIAMENT.</head>
+                  <p>
+                     <seg rend="decorInit">T</seg>He Commiſsion of the Generall Aſſemblie, Having
+propounded unto them, from the Honourable Eſtates of Par<g ref="char:EOLhyphen"/>liament, this
+Quaeſtion, <hi>What perſons are to be admitted to ryſe in armes, and
+joyne with the forces of the kingdome, and in what capacitie, for defence
+thereof, agaynst the armie of Sectaries, who (who contrary to the Solemn League
+and Co<g ref="char:EOLhyphen"/>venant, and Treaties) have most vnjustly inva<g ref="char:EOLhyphen"/>ded, and are destroying
+the kingdome?</hi> Doeth hum<g ref="char:EOLhyphen"/>blie returne to their L. this Anſwer:</p>
+                  <p>
+                     <pb n="3" facs="tcp:103541:2"/>That, conſidering it is a neceſſarie
+duetie incumbent to their L. both by the Law of GOD, and the law of nature, to
+uſe all neceſſarie, and lawfull meanes, for the defence of the Libertie,
+Lyves, and Eſtates of the people of the Kingdome, agaynſt the publick
+enemy, who hath moſt unjuſtly invaded us, and is de<g ref="char:EOLhyphen"/>ſtroying all theſe;
+And conſidering that the Forces formerlie rayſed in this kingdom, are ſo
+ruined, and ſcattered, that there is not any conſiderable power of them
+remayning; And that the enemy hath now in his poſſeſſion, and
+altogether under his po<g ref="char:EOLhyphen"/>wer, a great part, and that the beſt part of the
+kingdom; And that there cannot poſſibly be rayſed out of the reſt of
+the Land, any competency of Forces, to oppoſe the enemy, either for
+pre<g ref="char:EOLhyphen"/>ſervation of theſe parts that are yet free, or for relief of theſe
+that are already ſubdued (as is repreſented by the Eſtares) unles there
+be a more generall calling foorth of the body of the peo<g ref="char:EOLhyphen"/>ple, then heretofore
+hath been; Therefore in this caſe, of ſo great, and evident neceſſity,
+we cannot be againſt the raiſing of all Fenſible perſons in the Land,
+and permitting them to fight againſt this enemy, for defence of the kingdom;
+Excepting ſuch as are excommunicate, fofaulted, notoriouſly prophane, or
+flagitious, and ſuch as have been from the beginning, and conti<g ref="char:EOLhyphen"/>nue ſtill,
+or are at this tyme, obſtinate, and profeſſed enemies, and oppoſers of
+the Covenant, &amp; Cauſe of GOD: And for the capacity of acting, That the
+Eſtates of Parliamet ought to have, as we hope they will have, ſpeciall
+care, that in this ſo generall concurrence of all the people of the kingdom,
+none be put in ſuch truſt or power, as may be prejudiciall to the Cauſe
+of GOD; And that ſuch Officers as are of known integrity, and affection to
+the Cauſe, and particularly, ſuch as have ſuffered in our former armies,
+may be taken ſpeciall notice of.</p>
+                  <closer>
+                     <signed>A. Ker.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb facs="tcp:103541:3"/>
+                  <opener>
+                     <dateline>PERTH, 
+<date>6 <hi>January,</hi> 1651.</date>
+                     </dateline>
+                  </opener>
+                  <head>The Anſwer of the Commiſ<g ref="char:EOLhyphen"/>ſion of the
+Generall Aſſemblie, to the 
+<note n="*" place="margin">The prin<g ref="char:EOLhyphen"/>ting of this letter, we thought
+might well be ſpared, becauſe of the ſlownes of the Preſs here, and
+becaus it is alrea<g ref="char:EOLhyphen"/>die printed at Edm<g ref="char:EOLhyphen"/>burgh, and is now a<g ref="char:EOLhyphen"/>broad in the hands of
+many.</note>letter of the Miniſters of the Preſbyterie of Sterline to
+them.</head>
+                  <p>
+                     <seg rend="decorInit">I</seg>N our letters, ſent from our laſt meeting, to the
+ſe<g ref="char:EOLhyphen"/>verall Presbyteries of this Kirk, ſigni<g ref="char:EOLhyphen"/>fying to them, the reſolutions
+of King, and Parliament, to call foorth the bodie of the people, throughout the
+parts of this king<g ref="char:EOLhyphen"/>dome, which are yet free from the oppreſſion of the
+enemie, for the defence, and delyverance of the kingdome; and deſy<g ref="char:EOLhyphen"/>ring all
+Miniſters, in their places, and ſtations, to contribute their endevours,
+for advancing that work, and ſervice: As we did then conceive, ſo do we
+ſtill judge, that we did no<g ref="char:EOLhyphen"/>thing, but what our ductie, in the truſt
+committed to us, by the Generall Aſſemblie, for the good of the Kirk, and
+peo<g ref="char:EOLhyphen"/>ple of GOD, in this kingdome, oblieged us to doe; And that we requyred of
+Miniſters, their concurrence, in ſuch ſervice, as the preſent condition
+of the kingdome, doeth requyre, and nor onlie, the practiſe of all
+Chriſtian Nations, but alſo, both the law of nature, and the Law of GOD,
+doeth allow, and<pb n="5" facs="tcp:103541:3"/>approve; Expecting, that the Servants of GOD,
+out of their tender affection to the ſuffering, and bleeding condition of
+this Kirk, and kingdome, and reſpect to the lawfull com<g ref="char:EOLhyphen"/>mands of authoritie,
+ſhould not been deficient to ſo neceſſa<g ref="char:EOLhyphen"/>rie, and pious a ſervice: Or,
+that if anie ſhould fynd matter of ſcruple, and doubt in the publick
+reſolution, concerning that ſervice, which might retard, or put them to a
+demurre there<g ref="char:EOLhyphen"/>in, that they would have come, or ſent ſome fro<g ref="char:cmbAbbrStroke">̄</g> them, to
+com<g ref="char:EOLhyphen"/>municate their doubts, and ſcruples, with us, that by confe<g ref="char:EOLhyphen"/>rence
+thereupon, light might have been ſought, for remo<g ref="char:EOLhyphen"/>ving of mistakes, rather
+then, remayning at diſtance, without neceſſitie, ſent their mynd,
+poſitivelie determining, contrary to the publick reſolution in wryting,
+which, ordinarilie proves a ſnare, in matters of controverſie, which is not
+ea<g ref="char:EOLhyphen"/>ſilie winne out of againe, men ſeldome comming off from that, which once
+they have in matters of that kynd, put pen to paper on: But no wayes expecting,
+that any brethren would have been ſo diſreſpective to the publick
+judicatorie of the Kirk, and ſo forward to vndoe peace, and union in the Kirk
+of GOD, as to goe up to Pulpits, and preach publicklie, agaynſt the
+reſolutions of the publick Iudicatorie, before they had recourſe to
+themſelves, to be informed of the grounds, and reaſons of their
+reſolutions, and to communi<g ref="char:EOLhyphen"/>cate anie doubts, themſelves had upon the
+ſame, as to our great griefe, we heare ſome have done. This, as it is
+moſt diſ<g ref="char:EOLhyphen"/>orderlie, and ſcandalous, ſo it cannot, but at this tyme, be
+moſt prejudiciall to the ſafetie of the Kirk, and kingdome, and
+advantagious to the deſignes of the publick enemie: And we expect, that
+Presbyteries, in their reſpective bounds, will take notice of what hath been
+done this way, and reprove it, ſo as the offence may be taken away, and the
+prejudice ob<g ref="char:EOLhyphen"/>viated, ſo farre as may be. As for ſatisfaction to anie
+doubts, that are brought agaynſt the preſent publick reſolution, in
+re<g ref="char:EOLhyphen"/>lation to acting agaynſt the enemie, and reaſons clearing it to be a
+duetie, allowed, and approven of GOD, albeit, as we have intimate before, this
+might have been more conve<g ref="char:EOLhyphen"/>nientlie<pb n="6" facs="tcp:103541:4"/>done in mutuall conference
+together, in the ſpirit of love, and meekeeſſe, then in the way, that is
+by ſome choſen: yet ſhall we not refuſe, even in this way, to hold
+forth to others, theſe grounds, wherewith we our ſelves were ſatisfied,
+and we judge, all in this Kirk, and kingdome, ought to be, and may be
+ſatisfied, as alſo to anſwer theſe contrarie reaſons, which have been
+brought, and we were not ignorant of, when we agreed upon that
+reſolution.</p>
+                  <p>And firſt, we ſhall deſyre every one ſeriouſly to
+conſider the caſe and condition wherein the kingdome is engaged, &amp;
+ſtan<g ref="char:EOLhyphen"/>deth, at this tyme, that now, we are not upon an engagement of
+invaſive warre, but upon neceſſary defence againſt a forraigne enemy,
+who hath not only injuſtly invaded us, but alſo (through the holy
+permiſſive providence of GOD) ſlaine many of our Brethren with the
+ſword, ſubdued a great part of the Land, is oppreſſing the people of
+GOD therein, and following his in<g ref="char:EOLhyphen"/>juſt deſignes, and intentions againſt
+the reſt of the kingdome, that in this caſe, in the ordinary way of
+providence, according to which men muſt act, unleſſe they would be guilty
+of temp<g ref="char:EOLhyphen"/>ting GOD, there is need, and ought to be employed againſt the enemy,
+ſuch a competency of power, as is requiſit, in right and warrantable
+prudencie, &amp; may be had, not being of it ſelfe ſin<g ref="char:EOLhyphen"/>full: This certainly
+is mans duety, what ever GOD, out of His ſoveraignity, hath done, or may doe,
+in the caſe of want, or diſ<g ref="char:EOLhyphen"/>proportion of meanes: That in ſuch parts of
+the kingdome, as are yet free from the oppreſſion of the enemy, and ſo
+out of which any men can be raiſed, there is not a poſſibility, to get
+ſuch a competencie of power, unleſſe there be a more generall calling
+foorth of the body of the people, then hath been before, this as it is moſt
+certaine in it ſelfe, ſo it is moſt apparent, and evident unto all, that
+doe underſtand theſe parts of the king<g ref="char:EOLhyphen"/>dome, and whereas faithfull, and
+honeſt men in the State, well acquainted with the ſeverall ſhyres of that
+part of the king<g ref="char:EOLhyphen"/>dome, have publickly declared, that, when all ſhall be
+brought together, that can be called foorth of theſe parts, according to
+publick reſolution, will ſcarce be a competent power, againſt 
+<pb n="7" facs="tcp:103541:4"/>the power of the enemy, we cannot but much wonder, if any not
+ſo acquainted therewith, ſhall hold the contrary, and not give credit to
+the declaration of honeſt, and faithfull men, eſ<g ref="char:EOLhyphen"/>peciallie in authority,
+the matter being ſuch, as in the immediat knowledge thereof, dependeth on
+ſenſe, &amp; as to theſe that have not that knowledge, pertaineth to
+humane faith, which giveth credit to the teſtimony <hi>teſtium
+idoneorum,</hi> of competent witneſ<g ref="char:EOLhyphen"/>ſes, ſuch as theſe are whom we haue
+deſigned: So that the Bre<g ref="char:EOLhyphen"/>thren in their letter, whileas for aſſerting
+the exerciſing of their judgement anent this point, of the neceſſity of
+the kingdom, in a way of diſſenting from the publick declaration, &amp;
+teſtimony given thereanent, they doe alledge the practiſe of the Generall
+Aſſembly 1648, deſiring the Parliament to ſatisfie, and cleare them in
+the lawfulneſſe, and neceſſity of the warre, ſeeme not to argue to
+the purpoſe, becauſe there the queſtion was about a point <hi>de
+jure,</hi> here the queſtion is about the exiſtence of phy<g ref="char:EOLhyphen"/>ſicall
+meanes.</p>
+                  <p>The caſe of the kingdom ſtanding thus, the queſtion is,
+whe<g ref="char:EOLhyphen"/>ther it be a lawfull courſe or not, to raiſe all ſenſible
+perſons, ac<g ref="char:EOLhyphen"/>knowledged ſubjects of the kingdom, according as is
+expreſſed in the publick reſolution for defence, and deliverance of the
+kingdom, from the unjuſt violence &amp; oppreſſion of a forraigne enemy?
+We judge the courſe not only to be lawfull, but neceſ<g ref="char:EOLhyphen"/>ſary duetie in the
+caſe, for theſe reaſons: 1. Becauſe it hath been through all
+generations, and is at this day, the univerſall, uncon<g ref="char:EOLhyphen"/>verted practiſe of
+all chriſtian kingdoms, and States, in caſe of juſt defence, againſt
+forraign invaſion, to employ all ſuch as are acknowledged ſubjects, and
+citicens, in ſuch a way, as is not evi<g ref="char:EOLhyphen"/>dently deſtructive to Religion,
+which practiſe, is alſo allowed, and approven by the judgement of the
+ſoundeſt Divines in the Proteſtant Kirks, as might be particularly,
+inſtanced, if need were, in this paper. We doe not leane our faith, in
+matters of conſcience, upon the practiſes, or teſtimonies of men, yet
+con<g ref="char:EOLhyphen"/>ceive, that ſo univerſall a practiſe, in a matter of conſcience,
+uncontroverted, ought not to be miſregarded, and ſeems is ſo farre from
+being ſo horrid a ſinne, as ſome account it, that it<pb n="8" facs="tcp:103541:5"/>cannot want good &amp; clear reaſon for it: And here we ſhal
+deſire that the practiſe of our own firſt reformers of this Kirk, may be
+called to mynd, who did receiue ſundry unto co<g ref="char:cmbAbbrStroke">̄</g>munion of coun<g ref="char:EOLhyphen"/>ſells, &amp;
+acting with them, againſt the Queen Regents faction, who had been before upon
+her part and faction, oppoſing the Congregation, when as they came to
+acknowledgement of their former errours, &amp; were willing to joyn with the
+Congre<g ref="char:EOLhyphen"/>gation, in the good cauſe. 2. As the law of nature binds &amp;
+obli<g ref="char:EOLhyphen"/>ges every one, that is a member of the politicall body of a king<g ref="char:EOLhyphen"/>dom, or
+State, to endevour, to the uttermoſt of their power, the preſervation of
+the whole, &amp; of other fellow members, in a juſt quarrell, &amp; cauſe,
+which if they refuſe to doe, they are guilty of murther, and treachery
+againſt the Common-wealth: So the ſame law of nature allowes the body,
+&amp; layes an obligation up<g ref="char:EOLhyphen"/>on ſuch, as are governours &amp; rulers of that
+body, to call for the help and aſſiſtance of every member, as neceſsity
+requireth, for defence &amp; deliverance of the body, from injuſt violence
+&amp; de<g ref="char:EOLhyphen"/>ſtruction, which if they doe not, they run into the ſame
+guilti<g ref="char:EOLhyphen"/>neſſe, &amp; betray their truſt: Or, to make the matter more
+clear, take this formed argument: That which any is obliged to doe for anothers
+preſervation, and cannot omit, without the guilti<g ref="char:EOLhyphen"/>neſſe of anothers
+deſtruction, that may the other lawfully re<g ref="char:EOLhyphen"/>quire of him, when he needeth it,
+and when it may be done by him, without the undoing of a greater good, then is
+the others preſervation: But ſo it is, that every ſubject of the kingdom,
+is obliged by the law of nature, their oath of allegeance, their Co<g ref="char:EOLhyphen"/>venants,
+the Law of GOD, to endevour, to the uttermoſt of their power, the
+preſervation of the kingdom, againſt injuſt viole<g ref="char:cmbAbbrStroke">̄</g>ce: Therefore
+their helpe may be lawfully called for by ſuch as are in authority, for this
+end, whe<g ref="char:cmbAbbrStroke">̄</g>; the kingdoms preſervatio<g ref="char:cmbAbbrStroke">̄</g> ſtands in need of it, &amp;
+their help tends not to the undoing of a greater good, the<g ref="char:cmbAbbrStroke">̄</g> is the
+preſervation of the ſafety of the kingdom. But, to aſſume in way of
+proſyllogiſme, the preſervatio<g ref="char:cmbAbbrStroke">̄</g> of the ſafety of the kingdom, at this
+tyme, againſt injuſt violence, ſtands in need of the help of many
+ſubjects, who haue been formerly de<g ref="char:EOLhyphen"/>barred fro<g ref="char:cmbAbbrStroke">̄</g> ryſing in arms, &amp; their
+power may be employed for<pb n="9" facs="tcp:103541:5"/>that end, without the undoing of a
+greater good, as ſhall be clea<g ref="char:EOLhyphen"/>red afterward, in anſwering the objectio<g ref="char:cmbAbbrStroke">̄</g>s:
+Therefore, &amp;c. 3. Whe<g ref="char:cmbAbbrStroke">̄</g> we have, in the ſincerity of our hearts, adviſed
+with the Word of GOD, we can find nothing therin contrary to the courſe, in
+the caſewe have propou<g ref="char:cmbAbbrStroke">̄</g>ded: And how could we find otherwiſe, ſeing the
+law of nature (which is comprehe<g ref="char:cmbAbbrStroke">̄</g>ded in the Word of GOD, as a part of it) is
+ſo clear for it? But we doe find in the Word, good and clear warrant for it:
+We ſhall not ſtay upon all which might be brought thence, but ſhall only
+point at one or two particulars, which ſpeaking clearly to the point, may be
+ſufficient to build faith vpon. 1. We find in the book of <hi>Judges,</hi>
+when, becauſe of great defection from the purity of Religion, &amp; the
+Covena<g ref="char:cmbAbbrStroke">̄</g>t of GOD in that ancient Kirk, they were broght under the oppreſsion
+of forraign enemies; yet, when as any go<g ref="char:EOLhyphen"/>vernour was raiſed up by GOD, for
+their defence, &amp; deliverace fro<g ref="char:cmbAbbrStroke">̄</g> oppreſsion, &amp; the people are
+raiſed, &amp; gathered out for that end, we find them all called out
+promiſcuouſly, not withſtan<g ref="char:EOLhyphen"/>ding a great part of them, no queſtion, had
+been in the defectio<g ref="char:cmbAbbrStroke">̄</g>, And it ca<g ref="char:cmbAbbrStroke">̄</g>not be ſaid, without groundles raſhnes,
+that al ſuch had given convincing evidences of true repentance: Neither do we
+find that any of their governors are reproved, for not excluding ſuch as had
+been in the defection, fro<g ref="char:cmbAbbrStroke">̄</g> ryſing in arms, for the ne<g ref="char:EOLhyphen"/>ceſſary defence
+&amp; deliverance of the Land: But on the contrary, we find ſad reproofs,
+&amp; terrible curſes, pronounced againſt the<g ref="char:cmbAbbrStroke">̄</g>, that came not out
+ot the work; <hi>Judg.</hi> 5. <hi>v.</hi> 15.16.17.23. And who will ſay,
+that there were none amongſt theſe mentioned there, had been in the
+defection? 2. The like may be ſeen in the hiſtory of the <hi>Kings</hi>
+&amp; <hi>Chronicles,</hi> that, when after a defection fro<g ref="char:cmbAbbrStroke">̄</g> Reli<g ref="char:EOLhyphen"/>gion, &amp;
+the Covena<g ref="char:cmbAbbrStroke">̄</g>t of GOD, gracious reforming kings aroſe, &amp; had to doe
+againſt forraign invaſion, we find not theſe kings debarring any
+ſubjects, but calling them out promiſcuouſly, for the juſt &amp;
+neceſſary defence of the kingdom: Neither do we e<g ref="char:EOLhyphen"/>ver find it laid to their
+charge, that they called out ſuch, or ſuch ſubjects, upon that ſervice,
+though we may clearly perceive by the ſtory, &amp; ſermons of the
+<hi>Prophets</hi> of the times, that in time of beſt kings, &amp; beſt
+reformations, the greater part of the body of<pb n="10" facs="tcp:103541:6"/>the people were
+very wicked, &amp; ſtill retaining in their practiſe, much
+ſuperſtition: Inſta<g ref="char:cmbAbbrStroke">̄</g>ces are well known to ſuch as have any acquaintance
+in Scripture. 3. We find a very clear practiſe, ſtam<g ref="char:EOLhyphen"/>ped with divine
+approbation, and followed with the LORDS bleſsing making it ſuccesfull,
+ſpeaking aboundantly to our point, 1. <hi>Sam.</hi> 11. Where, in the caſe
+of <hi>Jabeſh-gilead,</hi> beſieged by a forraign enemy, <hi>Saul</hi>
+co<g ref="char:cmbAbbrStroke">̄</g>mands all <hi>Iſrael</hi> to come forth, for the defence &amp; delivery of
+their brethren, under pain of a ſevere ci<g ref="char:EOLhyphen"/>vill cenſure: Wherein we deſire
+theſe things to be conſidered. 1. That what <hi>Saul</hi> did in this
+buſines, was by the motion of the Spirit of GOD; to wit, acting him to doe
+the duety of his Royall calling. 2. That what the people did in obedience to
+the com<g ref="char:EOLhyphen"/>mand, they were alſo moved thereunto of GOD, by an impreſ<g ref="char:EOLhyphen"/>ſion of
+his fear, making the<g ref="char:cmbAbbrStroke">̄</g>, to wit, to revere<g ref="char:cmbAbbrStroke">̄</g>ce the authority of the king, called
+by him, &amp; now acting his calling. 3. That in this acting, <hi>Samuel</hi>
+is co<g ref="char:cmbAbbrStroke">̄</g>curring, &amp; acting jointly with <hi>Saul,</hi> without making any
+oppoſition to the courſe that is taken. 4. As all the body of the people is
+co<g ref="char:cmbAbbrStroke">̄</g>manded to riſe, ſo all come forth as one man, &amp; yet <hi>Cap.</hi>
+10. <hi>v. ult.</hi> many amongſt them (as is appa<g ref="char:EOLhyphen"/>rent a great faction) were
+ſonnes of <hi>Belial,</hi> wicked &amp; turbulent perſons, who malignantly
+oppoſed the work, &amp; clear revealed will of GOD, in calling <hi>Saul</hi>
+to the governement of his people. We deſire that <hi>Calvins</hi> ſermons
+on that chapter be read, where<g ref="char:EOLhyphen"/>in, amongſt other things that make to our
+purpoſe, it will be found, that that learned, judicious, &amp; pious writer,
+doth co<g ref="char:cmbAbbrStroke">̄</g>demn the citizens of <hi>Jabeſh-gilead,</hi> of much ſinfulnes, for
+that they were ſo ſoon ready to yeeld unto, &amp; capitulat with the enemy,
+&amp; did not firſt pray to GOD, and <hi>call for the help of their
+brethre,</hi> the like whereof, we are ſory, that the courſes of ſome in
+this Land, at leaſt in <hi>the condition of the work,</hi> leads unto,
+whileas the neceſſary help of fellow ſubjects againſt an invading &amp;
+oppreſ<g ref="char:EOLhyphen"/>ſing enemy, is not only not called for, but rejected, &amp;
+oppoſed by them. 4. To reaſon in a more particular way to our caſe, in
+<hi>hypotheſi,</hi> we deſire it may be conſidered, that ſuch as are
+exclu<g ref="char:EOLhyphen"/>ded, who are a great part of the remnant of the Land, If not the greater
+part, if rules of excluſion, as they are urged in the letter, be extended,
+and applyed equally, &amp; impartially, having their<pb n="11" facs="tcp:103541:6"/>lives,
+liberties, and eſtates allowed unto them, muſt either be in theſe things
+enſured (we mean in ſo farre as is competent to man to doe) by
+interpoſing a competent power, for their pro<g ref="char:EOLhyphen"/>tection againſt the violence,
+or, if that cannot be given them, as certainly it cannot be given, as the
+condition of this Land now ſtandeth, they muſt be allowed to act for their
+defence, <hi>nam qui dat vitam, dat neceſſaria, &amp; conſequentia ad
+vitam:</hi> Now how ſhall they act, and take up armes for their own defence,
+and the defence of the countrey, if they be not called thereunto, and allowed
+by authoritie? If it ſhall be ſaid, that they may be per<g ref="char:EOLhyphen"/>mitted to act for
+their own defence, we repone, that muſt either be in a joint way with others
+in the Land, &amp; if ſo, then the thing in queſtion is granted upon the
+matter, but in a way diſorder<g ref="char:EOLhyphen"/>lie, and more dangerous, then that which is
+deſired, and reſol<g ref="char:EOLhyphen"/>ved upon: Or apart, and by themſelves: Certainly that
+were a more ready way, as the condition of the Land now ſtandeth, to expoſe
+both themſelves, and others, and the whole Land, to ruine, and wee haue
+alreadie found too ſad experience of acting this way.</p>
+                  <p>We come now to anſwer the reaſons, &amp; objections, brought
+on the contrary; And firſt, we obſerve, that no teſtimonies or grounds of
+Scripture, are alledged in an head by themſelves, againſt the reſolution,
+to ſhow that it is a courſe ſinfull in it ſelf: Only in the firſt
+branch of the ſecond reaſon, ſome are pointed at, which were made uſe
+of <hi>anno</hi> 1648, againſt the aſſociating with <hi>Malignants,</hi>
+in the engagement againſt <hi>England,</hi> and are alledged alſo to
+ſpeak much againſt the preſent buſines: But it is not ſufficient to
+ſay, and dictat this, it ought to have been cleared, if it could been: But
+the caſes are very much different, that was of an invaſive warre, wherein
+an aſſociation with <hi>Ma<g ref="char:EOLhyphen"/>lignants,</hi> notourly continuing in their
+<hi>malignant</hi> courſes, and that without any neceſſity, there being
+ſufficiency of honeſt men to have been employed, had the cauſe been good,
+this is of juſt and neceſſary defence, againſt forraign prevaling
+invaſion, and oppreſsion, wherein tho, none are to be employed, that
+conti<g ref="char:EOLhyphen"/>nue in a courſe of <hi>malignancie:</hi> The places pointed at, may
+well<pb n="12" facs="tcp:103541:7"/>ſpeak againſt that, but doe not reach this. We need
+ſay no more, unleſſe there were ſome ſhow of proofe to the contrary,
+yet we ſhall ſay ſomewhat particularly to one place, that which is ſaid
+in the caſe of <hi>Amaziahs</hi> aſſociating with, and taking to him the
+<hi>Iſraelits,</hi> for help in his juſt defence, 2. <hi>Chron.</hi> 25.7.
+<hi>O King, let not the army of Iſrael goe with thee, for the LORD is not
+with Iſrael, even with all the houſe of Ephraim,</hi> as being mainly
+urged, and ſeems moſt to ſtick with ſome in the preſent
+buſi<g ref="char:EOLhyphen"/>neſſe, to which ſundry things may be anſwered, which clear the
+preſent buſineſſe from the force thereof. 1. The <hi>Iſraelits</hi>
+were idolaters, and forrainers, not ſo in our caſe, in either re<g ref="char:EOLhyphen"/>ſpect:
+But it is alledged, that the reaſon why <hi>Amaziah</hi> is diſ<g ref="char:EOLhyphen"/>ſwaded
+from taking their aſsiſtance, is, Becauſe GOD was not with them, and
+therefore the ſame reaſon, having place in ma<g ref="char:EOLhyphen"/>nie of theſe, whom the
+preſent reſolution comprehendeth, the diſſwaſion hath the ſame
+force againſt them. Therefore 2. GOD'S not being with them, may be either
+conceived and un<g ref="char:EOLhyphen"/>derſtood, in regard of the eſtate of grace, and
+reconciliation with GOD, but how-ſo-ever that with many of them GOD was not,
+in this regard, yet the reaſon cannot be alledged in this ſenſe,
+becauſe then it would follow by the argument, that we might not take the help
+of any man out of the eſtate of grace, for our juſt and neceſſary
+defence, which none will admit; or, it may be underſtood of GOD'S
+aſsiſtance, and proſpering pro<g ref="char:EOLhyphen"/>vidence ſimply: But neither can it be
+taken thus, becauſe it is certain and clear, that GOD was often with them in
+this ſenſe, in their own cauſe and quarrells, therefore it muſt needs
+be conceived, in regard of their profeſſion, and Religion, which was
+corrupt, and idolatrous, Now the reaſon thus underſtood, hath not place in
+our buſineſſe. 3. Yet doe we not find, that <hi>Amaziah</hi> is commanded
+to exclude any of the ſubjects of his own kingdom, from acting in that
+defence, or reproved for not doing of it, notwithſtanding many of them, no
+doubt, were naughty, and corrupt in their way, 2. <hi>King.</hi> 14.4.</p>
+                  <p>The firſt reaſon, is taken from the fourth article of the
+Co<g ref="char:EOLhyphen"/>venant, that the reſolution agreed upon, is inconſiſtent there<g ref="char:EOLhyphen"/>with, 
+<pb n="13" facs="tcp:103541:7"/>the ſcope whereof, is alledged to be againſt the
+employ<g ref="char:EOLhyphen"/>ment of ſuch perſons, becauſe it byndeth to diſcover them, and
+b<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing them to condign puniſhment,
+which is a further degree of diſtance: To which we anſwer, No perſons
+that are ſuch, as are deſcrived in that article, are allowed to be
+employed, or, we hope, ſhall be employed: Or, if any ſuch be employed, we
+think it our duety, to teſtifie againſt them, yet doe we not think, that
+were a ſufficient ground or warrant, for any godly, and honeſt ſubject,
+to withdraw their concurrence, from defending their countrey, in a juſt
+cauſe, when called thereunto by lawfull au<g ref="char:EOLhyphen"/>thoritie: But, if any, who have
+been ſometyme ſuch, and having been cenſured, as hath been judged
+convenient by the ſupreme judicatories, or have been pardoned, doe now
+renounce, and engage themſelves againſt ſuch courſes, by all the moſt
+ſolemn tyes, that can be impoſed upon men, or not found notourly pro<g ref="char:EOLhyphen"/>phane,
+or flagitious, and are acknowledged members of State, and Kirk, be employed,
+according to clear bound duety, for the juſt and neceſſary defence of the
+kingdom, that article, to our capacitie, ſpeaketh nothing againſt this.</p>
+                  <p>To the ſecond, Alledging the way that is taken, to be
+againſt former publick reſolutions, declarations, our ſolemn engage<g ref="char:EOLhyphen"/>ment,
+&amp;c. we ſhall not need to inſiſt in following ſeverally every branch
+thereof, becauſe all of them may be cleared, by ſome common
+conſiderations. 1. Our firſt declarations, and publick reſolutions, and
+engagements concerning this matter, were conceived in relation to acting, in a
+way of proſecution of the cauſe, and no wayes intended to the prejudice of
+juſt and neceſſarie defence of the kingdom, againſt forraign
+in<g ref="char:EOLhyphen"/>vaſions, for which we are allowed and bound by the law of nature (which no
+humane lawes or reſolutions can infringe or prejudge) to make uſe of all
+ſubjects in the kingdom, if the making uſe of them be not ſinfull in it
+ſelfe, and may be without prejudice of the cauſe. And here, we deſire it
+may be remembred, that in the beginning of theſe troubles, <hi>anno</hi>
+1638, when as there were then ſtanding lawes in this king<g ref="char:EOLhyphen"/>dom, which are not
+yet repealed to this day, diſcharging all<pb n="14" facs="tcp:103541:8"/>ſubjects from
+ryſing in armes, without the kings expreſſe war<g ref="char:EOLhyphen"/>rant and command: Yet the
+ſubjects of this kingdom, percei<g ref="char:EOLhyphen"/>ving themſelves in danger to be
+deſtroyed by forraign inva<g ref="char:EOLhyphen"/>ſion, did fynd theſe lawes no wayes to bynd up
+their hands, from taking armes, for their juſt defence, and ſelfe
+preſerva<g ref="char:EOLhyphen"/>tion, theſe lawes, in the intention of the law-giver, being made
+for the preſervation of the kingdom, and not for the deſtruction of it: And
+accordingly, when the pacification was made at BERWICK, they refuſed to take
+a Pardon for what they had done, in taking armes, not only without, but
+againſt the kings command, alledging and that truelie, that they had not
+broken the law, in regard they had but obeyed the law of nature, in a caſe of
+neceſſitie, in prejudice of which, theſe lawes could not be conceived to
+be made: And we conceive the verie ſame is applicable to our former
+reſolutions, decla<g ref="char:EOLhyphen"/>rations, &amp;c. in relation to our preſent caſe. 2.
+What is ſayd in latter declarations concerning this matter, in relation even
+to defence agaynſt our invaders, as it ſtreatcheth further, then the
+declared intention of former reſolutions, ſo it was in a
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>yme, when the whole kingdom was
+inte<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re, and there might be a
+choiſe made of inſtruments to act, and we confeſſe, in ſuch a caſe
+choiſe ſhould be made, of the beſt inſtruments, but now the caſe is
+altered, And as to the anſwer given by the Commiſ<g ref="char:EOLhyphen"/>ſion at STERLINE to the
+Quaeree propounded by the Kings Majeſtie, about the end of September, the
+lyke may be ſayd, there being then conſiderable forces gathered in the
+WEST, by whom much was expected, by honeſt people, and the rem<g ref="char:EOLhyphen"/>nants of the
+armie which were as STERLINE, and on this ſyde, together with ſuch recruits
+as were then a levying, being joyned together, might have been a conſiderable
+power, to have oppoſed the enemie without any urgent neceſſitie to
+em<g ref="char:EOLhyphen"/>ploy others. Yet 3. neither at this tyme is it reſolved that anie be
+employed, that are either knownly prophane, or continuing in enmitie and
+oppoſition to <gap reason="illegible" resp="#OXF" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>, and cauſe of
+God.</p>
+                  <p>To the third, Taken from the eminent danger, which is al<g ref="char:EOLhyphen"/>ledged
+will inevitable follow the way reſolved upon, becauſe<pb n="15" facs="tcp:103541:8"/>theſe men, getting power into their hands, cannot but employ the
+ſame, according to their own principles, and for eſtabliſhing their own
+ends, deſtructive to the Work of GOD, We anſwer, 1. Suppoſe there be
+ſome danger of this kynd, yet it is not cer<g ref="char:EOLhyphen"/>tayn, and inevitable; And we
+deſyre it may be conſidered, that on the other hand, if neceſſarie
+help, in it ſelf not ſinfull, be not employed, there is certayn ruine, both
+to kingdom, and cauſe, without an extraordinarie divine work, which we have
+no warrant to look for, neglecting ordinarie means: Let theſe two be weighed
+in the ballance, one agaynſt another, and let warrantable Chriſtian
+prudence judge, which of them were to be choſen. 2. We cannot ſee the
+danger unto the Cauſe of GOD, ſo apparent, and great, by this way of
+defence of the kingdom, Conſidering 1. That manie of theſe now to be
+em<g ref="char:EOLhyphen"/>ployed therein, who have been debarred, were formerlie known active
+favourers, and promoters of the cauſe, and haue ſolemnlie declared their
+acknowledgement of the ſinfulneſſe of their fall from their
+ſteadfaſtneſſe, and their ſorrow for the ſame, and have bound
+themſelves, to a more firm and faith<g ref="char:EOLhyphen"/>full adhering to the cauſe, and
+Covenant, by all the bands, that can be impoſed upon men. 2. That none are to
+be employed, who are known to be ſtill of a contrarie Mynd and affection. 3.
+That none, of whom there may be the leaſt ſuſpicion this way are to get
+ſuch power, or truſt put in their hand, for de<g ref="char:EOLhyphen"/>fending the kingdome, as may
+be prejudiciall to the cauſe. 4. For preventing anie danger of this kynd, we
+reſolve to have a particular oath, to be tendered unto, and taken by all, who
+are to be on the ſervice, as full, and bynding, as poſſiblie men can
+conceive, to guard the cauſe of GOD, and work of reformation from all harm or
+prejudice. 5. The oppoſition that manie of theſe, who have been formerlie
+excluded, and now are to be admitted, did make to the cauſe of GOD, did
+aryſe upon their ſinfull preference of the kings intereſt, to the
+cauſe, which were then ſeparated, and ſtanding in oppoſition one to
+another: But now the intereſt of the king, and the cauſe, being joyned in
+one, and the king now having bound himſelf<pb n="16" facs="tcp:103541:9"/>by Covenant, and
+oaths, ſolemnlie renewed, at his Coronation, to maintain the Covenant, and
+cauſe, there cannot be ſo evi<g ref="char:EOLhyphen"/>dent danger apprehended that way.</p>
+                  <p>To the fourth, Taken from ſcandall and offence of the godlie,
+It is anſwered, 1. The meanes reſolved on, being not ſinfull in it
+ſelf, and being neceſſarie in the preſent caſe and condition of the
+Land, the offence and ſcandall cannot be GIVEN, but TAKEN: And therefore. 2.
+If anie godlie ſhall with-draw themſelves, from contributing their
+neceſſarie con<g ref="char:EOLhyphen"/>currence, for the defence of the kingdom, they cannot but
+highlie ſinne agaynſt GOD, in deſerting their neceſſarie due<g ref="char:EOLhyphen"/>tie, and
+we doe wiſh, and hope, that there be no active inſtru<g ref="char:EOLhyphen"/>ments, to cauſe
+honeſt and godlie people in the Land to ſtum<g ref="char:EOLhyphen"/>ble, and offend more, then
+either they of themſelves are incly<g ref="char:EOLhyphen"/>ned to doe, or they can have occaſion
+by the publick reſolu<g ref="char:EOLhyphen"/>tion. 3. Suppoſe the Magiſtrate ſhould employ
+ſome perſons whom he ought not, yet we doe not ſee, how that anie godlie
+ought, or could, without ſinne, lye aback from concurring in the juſt
+defence of their countrey, in the neceſſitie thereof, and being called by
+lawfull authoritie.</p>
+                  <p>To the fifth, Wherein it is ſayd, That it ſeemeth to make
+voyd the ſtrength of ſeverall anſwers, given to the adverſarie,
+alledging, our acceſſion to the unlawfull engagement, and to promoting a
+malignant partie, and intereſt, and to contribute to the juſtifying of
+their quarrell, and to heighten them in their hopes, and reſolutions
+agaynſt this Land, It is anſwered, 1. It can no wayes favour anie
+alledgeance of the adverſarie, of our acceſſion to the unlawfull
+engagement, or promoting of anie malignant partie, or intereſt, ſeing none
+are to bee ad<g ref="char:EOLhyphen"/>mitted, who have been acceſſorie to the engagement, but
+ſuch, as have ſolemnlie, and publicklie renounced the ſame, and all
+courſes tending thereto, and make declaration of their ac<g ref="char:EOLhyphen"/>knowledgement of
+the ſinfulneſſe, and unlawfulneſſe thereof, doe engage themſelves
+never to come anie way in oppoſition to the Covenant, and cauſe of GOD. 2.
+Wee ſee not how it can any way juſtifie their quarrell, &amp; we wiſh
+that none amo<g ref="char:cmbAbbrStroke">̄</g>gſt <pb n="17" facs="tcp:103541:9"/>our ſelves had given, or doe give them
+injuſtlie, pretences of juſtifying their quarrell. 3. We muſt not ſtand
+to make uſe of lawfull and neceſſarie meanes, for our juſt Defence,
+upon their conceiving groundles bigge hopes, and injuſt reſolutions
+agaynſt us.</p>
+                  <p>To the ſixth, What is alledged therein, is as eaſilie denyed
+as it is affirmed: And here we cannot but obſerve, that, which is generallie
+throughout this whole letter, that all, who have been hitherto debarred from
+acting, what ever they have been before, and what ever be their teſtimonies
+now of repen<g ref="char:EOLhyphen"/>tance, for anie ſinfull courſe they have been upon, for a
+tyme, for which they have given ſatisfaction to the KIRK, are yet counted
+<hi>Malignants,</hi> which we cannot but think a ve<g ref="char:EOLhyphen"/>rie hard, and uncharitable
+judgement, and the rather, remem<g ref="char:EOLhyphen"/>bring that in the Commiſſion at STERLINE,
+after the De<g ref="char:EOLhyphen"/>feat, it was otherwyſe publicklie acknowledged.</p>
+                  <p>To the ſeventh, 1. We acknowledge, that we have cauſe to be
+affrayed of the LORDS indignation, and controverſie agaynſt the Land, both
+for the ſinnes of ſuch as are now to be employed, as alſo for the
+ſinnes of others, as well as of them; but we ſee no cauſe to bee affrayed
+of GODS indignation, ſimplie upon this account, that neceſſarie meanes,
+allowed by the Law of GOD, and the law of nature, be made uſe of, for our
+juſt and neceſſarie defence: And as for that enemie, he is not onlie the
+Rod of GODS anger, and the Staffe in His Hand the LORDS indignation, agaynſt
+<hi>Malignants;</hi> but alſo agaynſt the whole Land, even the godlie
+themſelves, as is at this day viſible, in all the three kingdomes,
+becauſe of our manyfold ſinnes, hypocriſies, and diſobedience to the
+Goſpell of CHRIST; So, if this alledgeance have anie force to the poynt, for
+which it is brought, it ſhould follow, that all and everie one of us ſhould
+lye down, and doe nothing agaynſt the enemy at all: Certainly, although
+<hi>Aſhur</hi> was the Rod of GODS anger agaynſt the hypocriticall nation
+of the IEWES, yet that was no argume<g ref="char:cmbAbbrStroke">̄</g>t why that people might not ſtand in
+their defence agaynſt that enemie.</p>
+                  <p>
+                     <pb n="18" facs="tcp:103541:10"/>Whereas it is ſayd, That the
+neceſſitie pleaded for the pre<g ref="char:EOLhyphen"/>ſent reſolution, doeth not cleare them
+in theſe thinges, be<g ref="char:EOLhyphen"/>cauſe they remember in the year 1646. albeit the
+neceſsitie was pleaded by the COMMITTEE of ESTATES, for the ca<g ref="char:EOLhyphen"/>pitulation
+with IAMES GRAHAME, and his adherents, yet that did not hinder the COMMISSION,
+to beare teſtimonie againſt the pardoning of them, which was much leſſe
+then employing them, It is anſwered, 1. That the neceſsitie being cleare
+(as it hath been cleared in the preſent caſe) Pleadeth moſt ſtrong<g ref="char:EOLhyphen"/>lie
+for, and may cleare anie concerning the making uſe of meanes, in themſelves
+lawfull, for juſt defence. 2. That ne<g ref="char:EOLhyphen"/>ceſsitie, pleaded by the COMMITTEE of
+ESTATES, was meerelie pretended, they having then ſufficiencie of power to
+have ſuppreſſed, and taken order with that enemie. What is alledged from
+the paſſages, and papers alreadie cited, as ſpea<g ref="char:EOLhyphen"/>king agaynſt the
+employing of them in our Armie, in the de<g ref="char:EOLhyphen"/>fence of the Kingdome, hath been
+alreadie ſufficientlie anſwe<g ref="char:EOLhyphen"/>red. That which followeth, ſpoken agaynſt
+unbeliefe, in caſe of the ſcarceneſſe of meanes, &amp;c. Wee
+acknowledge the Di<g ref="char:EOLhyphen"/>vine Trueth of that, that it is all one with GOD to ſave
+with manie, or with few, and that it is great ſinne, to be misbelie<g ref="char:EOLhyphen"/>ving,
+when GOD in His Providence redacteth us to ſcarce<g ref="char:EOLhyphen"/>tie of ſecundarie meanes,
+but that it is no ground for us, to neglect the uſe of lawfull,
+neceſſarie, and competent meanes, when GOD doeth afford them, ſuch as He
+hath yet, Bleſ<g ref="char:EOLhyphen"/>ſed be His Name, left unto us in this Land. But none of
+un<g ref="char:EOLhyphen"/>derſtanding, whom wee meet with, doe ſee, how theſe can be had,
+without ſuch a calling forth of the people in theſe parts of the Land, that
+are yet free from the oppreſsion of the ene<g ref="char:EOLhyphen"/>mie, as is held forth in the
+publick reſolution, which being made uſe of, as they may be made uſe of,
+without ſuch ſnares, dangers to the cauſe of GOD, and any given
+ſcandall, and juſt griefe to the godlie, as is pretended, what ever be the
+event thereupon, give us leave to ſay, will be more peace and com<g ref="char:EOLhyphen"/>fort to us,
+then if anie further calamitie ſhould come upon the Land, lawfull and
+neceſſarie meanes affoorded by providence,<pb n="19" facs="tcp:103541:10"/>not having
+been made uſe of. What followeth here-after, hath been anſwered before,
+untill it come to theſe wordes, <hi>But wee cannot conceave how the Kingdome
+and Cauſe can bee well ſeparated,</hi> &amp;c. Wherein, give us leave to
+ſay, without offence, great injurie is done the COMMISSION of the KIRK, in
+that reſolution, whileas it is alledged, that therein we doe ſeparate the
+kingdome, from the Cauſe, as we were going contrarie to the mynd and courſe
+of this KIRK and Kingdome, theſe twelve yeares paſt, which never
+ſeparated them, and were homologating with ſuch, as being adverſaries,
+and undermyners of the Cauſe, have endevoured to put Reli<g ref="char:EOLhyphen"/>gion out of the
+quarrell. Doeth our mentioning onlie the kingdome in that reſolution, import
+a ſeparation of the king<g ref="char:EOLhyphen"/>dome, and the Cauſe, in the quarrell agaynſt our
+enemie? Or what Logick can draw out ſuch a conſequence out of it? Wee doe
+think, that the kingdome being in danger by this enemie, the Cauſe alſo is
+in danger, and the defending of the king<g ref="char:EOLhyphen"/>dome, will be the defending of the
+Cauſe alſo: And wee truſt no inſtruments ſhall bee employed for the
+defence of the king<g ref="char:EOLhyphen"/>dome, to the prejudice of the Cauſe: So that wee ſee
+not that much advantage is by that reſolution given to the enemie, and wee
+wonder how it can bee ſayd, to bee inductive to others, to comply with them,
+to the prejudice of the kingdome, as being of leſſe value and importance,
+then the Cauſe, except theſe others, be ſuch, as have caſt off naturall
+affection to their native kingdome, or judge theſe who are preſent enemies
+to the kingdome, not to bee enemies to the Cauſe.</p>
+                  <closer>
+                     <signed>A. Ker.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>PERTH 
+<date>MARCH 13. 1651.</date>
+                     </dateline>
+                  </opener>
+                  <p>THe Letter of the Ministers of the Preſbyterie of Stirling is
+not here printed as was intended, The ſame being already printed at
+Edinburgh, vnder the falſe and odious title of <hi>A Remonſtrance of the
+Presbytery of Stirling againſt the preſent conjunction with the Malignant
+partie,</hi> and ſpread throughout the Kingdom by what meanes and warrand
+it's not known.</p>
+                  <closer>
+                     <signed>A. Ker.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+      </body>
+   </text>
+</TEI>
